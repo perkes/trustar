@@ -1,0 +1,7 @@
+{
+    "github_token": "",
+    "repo_id": "mitre/cti",
+    "file_directory": "/enterprise-attack/attack-pattern/",
+    "keys": ["id", "objects[0].name", "objects[0].kill_chain_phases"],
+    "output_file": "./output/output.csv"
+}

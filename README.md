@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ### Configuring
 
 Go through **config.json**:
-- **github_token**: your github token, you can create a github token by going to Github -> Settings -> Personal access tokens -> Generate new token.
+- **github_token**: your github token, you can create a github token by going to Github -> Settings -> Developer Settings -> Personal access tokens -> Generate new token.
 - **repo_id**: the ID of the public github repository you want to query. *Default*: mitre/cti.
 - **file_directory**: The directory within the repository that contains the JSON files we want to query. *Default*: /enterprise-attack/attack-pattern/.
 - **keys**: the keys you want to access within the JSON files. *Default*: 'id', 'objects[0].name', 'objects[0].kill_chain_phases'. 

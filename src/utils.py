@@ -10,7 +10,7 @@ def get_value(key, dictionary):
     Parameters:
     key (str)        : the key to be used to retrieve its corresponding value from
                        the dictionary.
-    dictionary (dict): the dictionary were tha value is extracted from using the
+    dictionary (dict): the dictionary were that value is extracted from using the
                        key above.
 
     Returns:
